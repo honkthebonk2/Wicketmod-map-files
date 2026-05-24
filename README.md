@@ -5,6 +5,8 @@ The files in this repository take from old Zonemod configs, as well as some newe
 
 I've only included Vscripts that I've personally modified.
 
+Feel free to use these as you please, but credit would be appreciated!
+
 ## Supported Maps
 
 I plan to make a small summary for each map in the future, but for now the supported campaigns are as follows:
